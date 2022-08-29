@@ -1,7 +1,7 @@
 {
   "name": "Stefanie-WhatsApp-Bot-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/whiteshadowofficial/STEFANIE-BOT-MD",
+  "repository": "https://github.com/chasindu2004/STEFANIE-BOT-MD?organization=chasindu2004&organization=chasindu2004",
   "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
